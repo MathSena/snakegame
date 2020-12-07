@@ -1,5 +1,5 @@
 # Snake Game 🚀
-Replicação do famoso jogo do cobrinha  feito para um projeto na Digital Inovation One
+Replicação do famoso jogo do cobrinha  feito para um projeto na Digital Innovation One
 
 ### As tecnologias utilizadas são:
 * [HTML básico](https://www.w3schools.com/html/)
